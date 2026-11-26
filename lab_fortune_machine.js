@@ -1,3 +1,5 @@
+// https://www.freecodecamp.org/espanol/learn/javascript-v9/lab-fortune-teller/build-a-fortune-teller
+
 const fortune1 = "Your cat will look very cuddly today."
 const fortune2 = "The weather will be nice tomorrow."
 const fortune3 = "Be cautious of your new neighbors."
